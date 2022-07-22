@@ -15,8 +15,11 @@ status-website:
   baseUrl: /upptime-by-github
   logoUrl: https://aiexpress.io/wp-content/uploads/2022/06/oak9-Raises-8-Million-in-Additional-Funding.png
   name: oak9
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**oak9** The Security as Code Platform"
+  introMessage: This is oak9 status page, where you can get updates on how our systems are doing.
+If there are interruptions to service, we will post a note here.
+As always, if you are experiencing any issues with oak9, don't hesitate to
+get in touch with us at amaniar@oak9.io (team email) and we'll get back to you as soon as we can.
   navbar:
     - title: Status
       href: /
