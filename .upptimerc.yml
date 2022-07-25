@@ -20,7 +20,7 @@ status-website:
   introTitle: "**oak9** The Security as Code Platform"
   introMessage: Welcome! to oak9 status page.
   theme: dark
-  favicon: https://oak9.io/wp-content/uploads/2022/06/avatars-aboutus.png
+  favicon: https://media-exp1.licdn.com/dms/image/C560BAQFygl4lM9Zmbg/company-logo_200_200/0/1658168926281?e=1666828800&v=beta&t=L6Qu2tA0v0mlIr3L97mKGKram4DJKpPTAW5Dko3RWRQ
   navbar:
     - title: HOME
       href: https://oak9.io
