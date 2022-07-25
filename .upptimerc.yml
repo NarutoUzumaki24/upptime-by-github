@@ -15,8 +15,8 @@ status-website:
   baseUrl: /upptime-by-github
   logoUrl: https://aiexpress.io/wp-content/uploads/2022/06/oak9-Raises-8-Million-in-Additional-Funding.png
   name: oak9
-  introTitle: "[**oak9**](oak9.io) The Security as Code Platform"
-  introMessage: This is oak9-status page \n where you can get updates on how our systems are doing.\n If there are interruptions to service, we will post a note here. As always, if you are experiencing any issues with oak9, dont hesitate to get in touch with us at [amaniar@oak9.io](amaniar@oak9.io) (team email) and we will get back to you as soon as we can.
+  introTitle: "[**oak9**](https://oak9.io) The Security as Code Platform"
+  introMessage: This is oak9-status page "\n" where you can get updates on how our systems are doing."\n" If there are interruptions to service, we will post a note here. As always, if you are experiencing any issues with oak9, dont hesitate to get in touch with us at [amaniar@oak9.io](amaniar@oak9.io) (team email) and we will get back to you as soon as we can.
   navbar:
     - title: Status
       href: /
