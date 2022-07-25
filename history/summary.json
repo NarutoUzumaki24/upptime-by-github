@@ -2,7 +2,7 @@
   {
     "name": "oak9",
     "url": "https://oak9.io",
-    "icon": "https://favicons.githubusercontent.com/oak9.io",
+    "icon": "https://aiexpress.io/wp-content/uploads/2022/06/oak9-Raises-8-Million-in-Additional-Funding.png",
     "slug": "oak9",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 737,
-    "timeDay": 683,
-    "timeWeek": 737,
-    "timeMonth": 737,
-    "timeYear": 737,
+    "time": 727,
+    "timeDay": 669,
+    "timeWeek": 727,
+    "timeMonth": 727,
+    "timeYear": 727,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 374,
-    "timeWeek": 362,
-    "timeMonth": 362,
-    "timeYear": 362,
+    "time": 377,
+    "timeDay": 409,
+    "timeWeek": 377,
+    "timeMonth": 377,
+    "timeYear": 377,
     "dailyMinutesDown": {}
   }
 ]
