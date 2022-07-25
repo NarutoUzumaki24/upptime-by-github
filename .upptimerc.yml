@@ -8,6 +8,7 @@ sites:
     icon: https://aiexpress.io/wp-content/uploads/2022/06/oak9-Raises-8-Million-in-Additional-Funding.png
   - name: oak9 console
     url: https://console.oak9.io
+    icon: https://www.finsmes.com/wp-content/uploads/2021/06/oak9-300x300.jpg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,6 +19,7 @@ status-website:
   name: oak9
   introTitle: "**oak9** The Security as Code Platform"
   introMessage: Welcome! to oak9 status page.
+  theme: dark
   navbar:
     - title: HOME
       href: https://oak9.io
