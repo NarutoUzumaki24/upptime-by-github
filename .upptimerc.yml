@@ -5,6 +5,7 @@ repo: upptime-by-github # The name of this repository
 sites:
   - name: oak9
     url: https://oak9.io
+    icon: https://aiexpress.io/wp-content/uploads/2022/06/oak9-Raises-8-Million-in-Additional-Funding.png
   - name: oak9 console
     url: https://console.oak9.io
 
