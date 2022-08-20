@@ -5,16 +5,16 @@
     "icon": "https://aiexpress.io/wp-content/uploads/2022/06/oak9-Raises-8-Million-in-Additional-Funding.png",
     "slug": "oak9",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 651,
-    "timeDay": 707,
-    "timeWeek": 595,
-    "timeMonth": 651,
-    "timeYear": 651,
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 646,
+    "timeDay": 399,
+    "timeWeek": 552,
+    "timeMonth": 646,
+    "timeYear": 646,
     "dailyMinutesDown": {
       "2022-07-28": 26
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 436,
-    "timeDay": 486,
-    "timeWeek": 358,
-    "timeMonth": 436,
-    "timeYear": 436,
+    "time": 434,
+    "timeDay": 361,
+    "timeWeek": 375,
+    "timeMonth": 434,
+    "timeYear": 434,
     "dailyMinutesDown": {}
   }
 ]
